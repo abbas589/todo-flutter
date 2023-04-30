@@ -14,6 +14,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "carousel_indicator",
+      "rootUri": "file:///Users/bazz/.pub-cache/hosted/pub.dev/carousel_indicator-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "carousel_slider",
       "rootUri": "file:///Users/bazz/.pub-cache/hosted/pub.dev/carousel_slider-4.2.1",
       "packageUri": "lib/",
@@ -266,7 +272,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-04-30T16:59:08.056145Z",
+  "generated": "2023-04-30T19:57:56.466968Z",
   "generator": "pub",
   "generatorVersion": "2.19.0"
 }

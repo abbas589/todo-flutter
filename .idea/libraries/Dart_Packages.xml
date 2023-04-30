@@ -16,6 +16,13 @@
             </list>
           </value>
         </entry>
+        <entry key="carousel_indicator">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/carousel_indicator-1.0.6/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="carousel_slider">
           <value>
             <list>
@@ -308,6 +315,7 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/async-2.10.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/carousel_indicator-1.0.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/carousel_slider-4.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/characters-1.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/clock-1.1.1/lib" />
